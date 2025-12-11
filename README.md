@@ -1,4 +1,4 @@
-## Asset Template + Editor
+## Swipe-Gunner | Template + Editor
 
 > **Mobile shooter game template with swipe-based weapon control, upgrade system, DI architecture (Extenject), and ready-to-play demo levels.  
 > Easy to expand, customize, and integrate into any project.**
